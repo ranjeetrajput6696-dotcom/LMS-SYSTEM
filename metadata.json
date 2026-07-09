@@ -1,0 +1,6 @@
+{
+  "name": "BHARAT JUNIOR HIGH SCHOOL",
+  "description": "An institutional-grade, highly dependable educational ERP featuring student dashboards, interactive fee management, an AI study tutor, and a real-time teacher attendance roster.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
